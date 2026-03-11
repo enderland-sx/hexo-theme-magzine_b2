@@ -1,15 +1,22 @@
+<div align="center">
+  <h1>Magzine主题</h1>
+ </div>
+
 ![未标题-1](https://github.com/user-attachments/assets/7bf5964e-9dfe-41f6-a281-3568bd5807ef)
 
-# Magzine主题   
-
-一款现代化的杂志风格 Hexo 主题，大屏支持，简洁、优雅、快速。👉[使用手册](https://2am.top/2026/01/28/magzine%E4%B8%BB%E9%A2%98%E6%8C%87%E5%8C%97/)
+<div align="center">
+  <p>
+    一款现代化的杂志风格 Hexo 主题，大屏支持，简洁、优雅、快速
+  </p>
+ </div>
 
 
 ## 预览  
-查看我的[博客](https://2am.top)或是预览快照：   
+👉我的[博客](https://2am.top) 
+
+## 使用
+👉[使用手册](https://2am.top/2026/01/28/magzine%E4%B8%BB%E9%A2%98%E6%8C%87%E5%8C%97/)
  
-
-
 
 
 ## 功能特性
@@ -82,7 +89,7 @@ npm install
 
 如果遇到问题或有疑问：
 
-1.  查看 [文档](docs/)\
+1.  查看文档
 2.  搜索已有
     [Issues](https://github.com/forever218/hexo-theme-magzine/issues)  
 3.  必要时提交新 Issue
