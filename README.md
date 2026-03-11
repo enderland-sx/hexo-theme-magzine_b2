@@ -1,3 +1,5 @@
+![未标题-1](https://github.com/user-attachments/assets/7bf5964e-9dfe-41f6-a281-3568bd5807ef)
+
 # Magzine主题   
 
 一款现代化的杂志风格 Hexo 主题，大屏支持，简洁、优雅、快速。👉[使用手册](https://2am.top/2026/01/28/magzine%E4%B8%BB%E9%A2%98%E6%8C%87%E5%8C%97/)
@@ -6,10 +8,6 @@
 ## 预览  
 查看我的[博客](https://2am.top)或是预览快照：   
  
-
-<img width="2544" height="1326" alt="image" src="https://github.com/user-attachments/assets/a614374a-9d15-4fc9-b570-27dd86bd731f" />  
-<img width="2545" height="1307" alt="image" src="https://github.com/user-attachments/assets/73373035-e3b4-468c-aeed-ed61cd7af0b9" />
-<img width="2546" height="1325" alt="image" src="https://github.com/user-attachments/assets/f44855aa-4ac4-4d9b-b988-6341547f34bc" />
 
 
 
