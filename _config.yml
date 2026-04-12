@@ -92,7 +92,7 @@ features:
   dark_mode: true  # 是否开启暗黑模式
   smooth_scroll: true
   back_to_top: true  # 是否开启返回顶部按钮
-  loading_animation: true  # 是否开启加载动画，默认开启
+  loading_animation: false  # 是否开启加载动画，默认开启
 
 # Code Block Settings (代码高亮)
 code_block:
@@ -125,7 +125,7 @@ author_card:
 
 # Comments (optional)
 comments:
-  enable: false
+  enable: true
   type: twikoo  # disqus, gitalk, valine, twikoo
   shortname:
   # Twikoo configuration
