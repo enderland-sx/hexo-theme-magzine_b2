@@ -1,17 +1,22 @@
-# Magzine主题   
+<div align="center">
+  <h1>Magzine主题</h1>
+ </div>
 
-一款现代化的杂志风格 Hexo 主题，大屏支持，简洁、优雅、快速。
+![未标题-1](https://github.com/user-attachments/assets/7bf5964e-9dfe-41f6-a281-3568bd5807ef)
 
------------------------------------------------------
+<div align="center">
+  <p>
+    一款现代化的杂志风格 Hexo 主题，大屏支持，简洁、优雅、快速
+  </p>
+ </div>
+
+
 ## 预览  
-查看我的[博客](https://2am.top)或是预览快照：   
+👉我的[博客](https://2am.top) 
+
+## 使用
+👉[使用手册](https://2am.top/2026/01/28/magzine%E4%B8%BB%E9%A2%98%E6%8C%87%E5%8C%97/)
  
-
-<img width="2544" height="1326" alt="image" src="https://github.com/user-attachments/assets/a614374a-9d15-4fc9-b570-27dd86bd731f" />  
-<img width="2545" height="1307" alt="image" src="https://github.com/user-attachments/assets/73373035-e3b4-468c-aeed-ed61cd7af0b9" />
-<img width="2546" height="1325" alt="image" src="https://github.com/user-attachments/assets/f44855aa-4ac4-4d9b-b988-6341547f34bc" />
-
-
 
 
 ## 功能特性
@@ -24,7 +29,7 @@
 -   **AI摘要**：接入deepseek摘要功能  
 -   **标签外挂**： 移植了[anzhiyu](https://blog.anheyu.com/posts/d50a.html)和[butterfly](https://butterfly.js.org/posts/2df239ce/)主题的大部分标签外挂   
 
-------------------------------------------------------------------------
+
 
 ## 安装方法
 
@@ -63,7 +68,7 @@ npm install
     "hexo-util": "^3.3.0"
 ```
 
-------------------------------------------------------------------------
+
 
 ## 贡献指南
 
@@ -73,23 +78,23 @@ npm install
 4.  如果需要，添加测试   
 5.  提交 Pull Request
 
-------------------------------------------------------------------------
+
 
 ## 开源协议
-本主题使用 **Apache License Version 2.0** 协议开源，您可以在遵守协议的前提下自由使用、修改和分发本主题。
+本主题使用 **MIT** 协议开源，您可以在遵守协议的前提下自由使用、修改和分发本主题。
 
-------------------------------------------------------------------------
+
 
 ## 支持与反馈
 
 如果遇到问题或有疑问：
 
-1.  查看 [文档](docs/)\
+1.  查看文档
 2.  搜索已有
     [Issues](https://github.com/forever218/hexo-theme-magzine/issues)  
 3.  必要时提交新 Issue
 
-------------------------------------------------------------------------
+
 
 ## 致谢
 
@@ -97,17 +102,5 @@ npm install
 -   [Pug](https://pugjs.org/)模板引擎  
 -   [Font Awesome](https://fontawesome.com/)图标
 
-## 贡献者
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/huyangpahuo">
-        <img src="https://avatars.githubusercontent.com/huyangpahuo" width="80px;" alt="forever218"/>
-        <br /><sub><b>huyangpahuo</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
 
