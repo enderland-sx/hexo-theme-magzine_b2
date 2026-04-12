@@ -5,13 +5,13 @@ logo: /images/0.gif
 # 首页图
 # Hero Section
 hero:
-  enable: false  # 是否开启首页图片
-  background_image: /images/11.webp
-  typing_text: 天接云涛连晓雾，星河欲转千帆舞
+  enable: true  # 是否开启首页图片
+  background_image: /images/bcity.png
+  typing_text: 蜉蝣微烬只足一瞬，今观弱蜕竟化仙蜩
   typing_speed: 100
   delete_speed: 50
   pause_duration: 2000
-  scroll_hint: 向下滚动探索更多
+  scroll_hint: 向下滚动,浏览那被封尘的故事
 
 # Article List 首页文章卡片大小
 article_list:
@@ -22,7 +22,7 @@ article_list:
 colors:
   primary: '#1a1a1a'
   secondary: '#666666'
-  accent: '#ff6b6b' # 主题色
+  accent: '#e7cb00' # 主题色
   background: '#ffffff'
   text: '#333333'
   overlay: 'rgba(0, 0, 0, 0.7)'
@@ -43,12 +43,12 @@ layout:
 
 # Social Links 社交链接
 social:
-  github: https://github.com/forever218
+  github: https://github.com/enderland-sx
 #  twitter: https://twitter.com/yourusername
 #  instagram: https://instagram.com/yourusername
 #  linkedin: https://linkedin.com/in/yourusername
-  email: mailto:3316703158@qq.com
-  bilibili: https://space.bilibili.com/82657269
+  email: mailto:goenderman@qq.com
+  bilibili: https://space.bilibili.com/5229238744
 
 # Navigation Menu 导航菜单
 menu:
@@ -57,9 +57,9 @@ menu:
   归档: /archives/
   分类: /categories/
   标签: /tags/
-  友链: /link/
-  网站:
-    示例网站: https://example.com
+ # 友链: /link/
+#  网站:
+ #   示例网站: https://example.com
 
 
 # Header 头部
@@ -69,11 +69,11 @@ navbar:
 
 # Footer 页脚
 footer:
-  copyright: © 2025 李思然. All rights reserved.
+  copyright: © 2026 Enderland. All rights reserved.
   custom_html: ""
   # Footer centered image with link (页脚居中图片及链接)
   image:
-    enable: true  # 是否显示图片，设为true显示
+    enable: false  # 是否显示图片，设为true显示
     src: "https://s21.ax1x.com/2024/08/23/pAFm0cq.png"  # 图片URL
     link: "https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"  # 图片链接地址
     alt: "Footer Image"  # 图片替代文本
@@ -106,12 +106,12 @@ code_block:
 # Author Card (作者卡片)
 author_card:
   enable: true
-  avatar:  /images/0.gif
-  name: 然
-  bio: 人生而自由，却无往不在枷锁之中
+  avatar: /images/favicon.png
+  name: Enderland·Ark
+  bio: The End of Them will be a present when They come into this world again.
   button_text: 关于我
   button_link: /about/
-  background_image: "/images/13.jpg"
+  background_image: "/images/room.png"
   width: large # normal or large
   # 作者卡片背景动画
   background_animation:
@@ -155,7 +155,7 @@ theme_config:
   post:
     excerpt_length: 200  # 文章摘要长度
     read_more: "阅读更多"  # 阅读更多按钮文字
-    use_default_cover: true  # 当文章未设置封面时是否使用默认封面
+    use_default_cover: false  # 当文章未设置封面时是否使用默认封面
     default_cover: "/images/19.png"  # 默认封面图片路径
 
 
@@ -200,7 +200,7 @@ inject:
 
 # AI摘要配置
 ai_summary:
-  enable: true  # 是否启用AI摘要功能，默认关闭
+  enable: false  # 是否启用AI摘要功能，默认关闭
   api_key: ""  # DeepSeek API密钥
   summary_directly: false  # 是否直接生成摘要，默认为false（需要点击按钮生成）
   # 其他可选配置
