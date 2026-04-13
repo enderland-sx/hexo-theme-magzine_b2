@@ -12,7 +12,9 @@
 
 
 ## 预览  
-👉我的[博客](https://2am.top) 
+👉原作者大大的[博客](https://2am.top)、
+👉晓黑的[博客](https://eld-ark.com)
+👉晓黑的[博客-备份站](https://enderland.cn)
 
 ## 使用
 👉[使用手册](https://2am.top/2026/01/28/magzine%E4%B8%BB%E9%A2%98%E6%8C%87%E5%8C%97/)
@@ -101,6 +103,5 @@ npm install
 -   [Hexo](https://hexo.io/)静态博客框架  
 -   [Pug](https://pugjs.org/)模板引擎  
 -   [Font Awesome](https://fontawesome.com/)图标
-
-
+-   [原作者Lisiran（forever218）](https://github.com/forever218)
 
