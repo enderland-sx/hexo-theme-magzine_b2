@@ -7,11 +7,11 @@ logo: /images/0.gif
 hero:
   enable: true  # 是否开启首页图片
   background_image: /images/bcity.png
-  typing_text: 蜉蝣微烬只足一瞬，今观弱蜕竟化仙蜩
+  typing_text: 以逝去者涅槃，以重生者安魂...
   typing_speed: 100
   delete_speed: 50
   pause_duration: 2000
-  scroll_hint: 向下滚动,浏览那被封尘的故事
+  scroll_hint: 向下滚动,搜索那片废墟
 
 # Article List 首页文章卡片大小
 article_list:
@@ -22,12 +22,12 @@ article_list:
 colors:
   primary: '#1a1a1a'
   secondary: '#666666'
-  accent: '#e7cb00' # 主题色
-  background: '#ffffff'
-  text: '#333333'
+  accent: '#7B0B0B' # 主题色
+  background: '#0D2850'
+  text: '#ffffff'
   overlay: 'rgba(0, 0, 0, 0.7)'
-  tag_background: '#ffffff'  # 首页标签背景色
-  card_background: '#ffffff'  # 首页文章卡片背景色
+  tag_background: '#021F4E'  # 首页标签背景色
+  card_background: '#1a1a1a'  # 首页文章卡片背景色
 
 # Typography 字体配置
 fonts:
@@ -90,9 +90,9 @@ footer:
 # Features (功能)
 features:
   dark_mode: true  # 是否开启暗黑模式
-  smooth_scroll: true
+  smooth_scroll: false
   back_to_top: true  # 是否开启返回顶部按钮
-  loading_animation: true  # 是否开启加载动画，默认开启
+  loading_animation: false  # 是否开启加载动画，默认开启
 
 # Code Block Settings (代码高亮)
 code_block:
@@ -108,7 +108,7 @@ author_card:
   enable: true
   avatar: /images/favicon.png
   name: Enderland·Ark
-  bio: The End of Them will be a present when They come into this world again.
+  bio: Reward the reborn with the sacrifice of the victims,enough reborn of liberation to offer the departed a requiem.
   button_text: 关于我
   button_link: /about/
   background_image: "/images/room.png"
