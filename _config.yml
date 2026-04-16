@@ -24,10 +24,10 @@ colors:
   secondary: '#666666'
   accent: '#7B0B0B' # 主题色
   background: '#FFDBDB'
-  text: '#ffffff'
+  text: '#333333'
   overlay: 'rgba(0, 0, 0, 0.7)'
-  tag_background: '#021F4E'  # 首页标签背景色
-  card_background: 'FFF9D9'  # 首页文章卡片背景色
+  tag_background: '#ffffff'  # 首页标签背景色
+  card_background: '#ffffff'  # 首页文章卡片背景色
 
 # Typography 字体配置
 fonts:
