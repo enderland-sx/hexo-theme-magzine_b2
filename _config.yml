@@ -111,7 +111,7 @@ author_card:
   bio: Reward the reborn with the sacrifice of the victims,enough reborn of liberation to offer the departed a requiem.
   button_text: 关于我
   button_link: /about/
-  background_image: "/images/room.png"
+  background_image: "/images/Portal.png"
   width: large # normal or large
   # 作者卡片背景动画
   background_animation:
